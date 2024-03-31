@@ -1,49 +1,49 @@
-# Final Projek Data Visualization and Wrangling Pacmann
-Berikut merupakan hasil dan penjelasan dari projek Data Visualization and Wrangling yang disediakan oleh pacmann. Projek yang diberikan meliputi analisis dan pengolahan data yang diambil dari situs kaggle. Dataset yang digunakan yaitu data mengenai tingkat bunuh diri dan kondisi sosioekonomi dari tahun 1990 hingga 2022
+# Final Project on Data Visualization and Wrangling Pacmann's Module
+Below are the results and explanations of the Data Visualization and Wrangling project provided by postman. The project includes analyzing and processing data taken from the Kaggle site. This is not an individual project, so I am teaming up with my friend, Fauzan to work on this project. The dataset that being used is data on suicide rates and socioeconomic conditions from 1990 to 2022.
 
 
 # A. Backgroud Problem 
-Masalah bunuh diri adalah masalah kesehatan masyarakat yang kompleks dan memiliki banyak aspek yang mempengaruhi masyarakat di seluruh dunia. Ini bukan hanya hasil dari kondisi kesehatan mental individu tetapi juga secara signifikan dipengaruhi oleh faktor-faktor sosial, ekonomi, dan demografis. Memahami pola dan korelasi bunuh diri dapat membantu dalam pengembangan strategi pencegahan yang efektif. Mengingat dataset mencakup indikator ekonomi bersama dengan tingkat bunuh diri, ini menunjukkan minat dalam mengeksplorasi bagaimana faktor-faktor ekonomi ini berkorelasi dengan kejadian bunuh diri di berbagai demografi dan sepanjang waktu.
+The issue of suicide is a complex public health concern with multiple aspects that impact societies worldwide. It is not solely a result of individual mental health conditions but is significantly influenced by social, economic, and demographic factors. Understanding suicide patterns and correlations can aid in developing effective prevention strategies. Given that the dataset includes economic indicators alongside suicide rates, this indicates an interest in exploring how these economic factors correlate with suicide occurrences across different demographics and over time.
 
 # B. Objective
-1. Menganalisis kumpulan data bunuh diri dari periode 1990 hingga 2022 untuk mengidentifikasi tren dan pola yang berkaitan dengan lonjakan angka bunuh diri.
-2. Menyelidiki faktor-faktor yang mungkin memicu peningkatan angka bunuh diri berdasarkan region atau benua
-3. Memahami hubungan antara faktor-faktor yang menyebabkan tingkat bunuh diri tinggi
-4. Mengembangkan rekomendasi solusi yang bertujuan untuk mengurangi angka bunuh diri.
+1. Analyze the suicide dataset from the period 1990 to 2022 to identify trends and patterns associated with spikes in suicide rates.
+2. Investigate factors that may trigger an increase in suicide rates, especially based on socioeconomic factors.
+3. Understand the relationships between factors that contribute to high suicide rates.
+4. Develop solutions and recommendations aimed at reducing suicide rates.
 
 
 # C. Goals
-Bertujuan untuk memahami faktor-faktor yang berdampak pada tingkat bunuh diri, dengan konsentrasi pada efek kondisi ekonomi dan variabel demografis. Dengan menggali lebih dalam tentang bagaimana faktor-faktor tersebut saling berinteraksi, tujuan akhirnya adalah untuk merumuskan rekomendasi kebijakan dan strategi intervensi yang efektif, demi mengurangi insiden bunuh diri.
+To explore the relationship between the suicide rate and socioeconomic conditions and other demographic factors, and then to assess in more detail the interaction between those causes. The longer-term goal is to produce policy recommendations and interventions that can help prevent suicide.
 
 
-# D. Alur Pengerjaan
-Alur pengerjaan pada project kali ini yaitu:
+# D. Work flow
+The work flow in this project is:
 
-    - 1. Pencarian dataset 
-    - 2. Cleaning dataaset yang meliputi proses:
+    - 1. Finding dataset 
+    - 2. Dataset cleaning which includes:
         * Rename values
-        * Menghapus data duplikat
-        * Cek value unknown dari data kategorikal 
-        * Menghapus kolom yang tidak digunakan
-        * Cek missing value pada tiap kolom
-        * Penghapusan missing value pada kolom tertentu 
-        * Handling missing value pada kolom GDP, GDPPerCapita, GrossNationalIncome, dan GNIPerCapita     
-    - 3. Penyimpanan data yang telah melalui proses cleaning 
-    - 4. Visualisasi data menggunakan tableau
-    - 5. Analisis data untuk mendapatkan insight dan rekomendasi 
-    - 6. Pembuatan dashboard dan report
+        * Remove duplicated data
+        * Checking unknown values of categorical data 
+        * Deleting unnecessary columns
+        * Checking missing values on each column
+        * Deleting missing values on certain column 
+        * Handling missing values on GDP, GDPPerCapita, GrossNationalIncome, and GNIPerCapita columns     
+    - 3. Save and download cleaned dataset
+    - 4. Visualization with tableau
+    - 5. Data analytics to gain insight and give recommendation 
+    - 6. Creating dashboard and report
 
 
-# E. Deskripsi File
-1. Modul 'code_cleansing.ipynb' yaitu program yang digunakan untuk melakukan data cleansing
-2. File 'suicide_rates_1990-2022.csv' yaitu dataset yang digunakan untuk proses cleaning 
-3. File 'cleaned_suicide_rates_1990-2022.csv' yaitu dataset yang telah dibersihkan dan akan digunakan untuk visualisasi dan analisis  
+# E. File Description
+1. The 'code_cleansing.ipynb' module is a program used to perform data cleansing.
+2. The file 'suicide_rates_1990-2022.csv' is the dataset used for the cleaning process. 
+3. The file 'cleaned_suicide_rates_1990-2022.csv' is the cleaned dataset that will be used for visualization and analysis.    
 
 # F. Link 
-1. Link dataset     : https://www.kaggle.com/datasets/ronaldonyango/global-suicide-rates-1990-to-2022/data
-2. Link video       : https://www.youtube.com/watch?v=XaPU-w6oP8c
-3. Link Tableau     : https://public.tableau.com/app/profile/ahmad.fauzan7259/viz/Visualisasi_Project_Pacman/Dashboard1
-4. Link Medium      : https://medium.com/@akbarmaulana_/analysis-on-suicide-rates-economic-factors-1990-2022-aff7ac87d7bc
-5. Link Linkedin    : https://www.linkedin.com/in/akbar-maulana--/
-6. Fauzan's Linkedin: https://www.linkedin.com/in/ahmad-fauzan-ba47271b8/
+1. Link to dataset              : https://www.kaggle.com/datasets/ronaldonyango/global-suicide-rates-1990-to-2022/data
+2. Link to video explanation    : https://www.youtube.com/watch?v=XaPU-w6oP8c
+3. Link to Tableau              : https://public.tableau.com/app/profile/ahmad.fauzan7259/viz/Visualisasi_Project_Pacman/Dashboard1
+4. Link to Medium               : https://medium.com/@akbarmaulana_/analysis-on-suicide-rates-economic-factors-1990-2022-aff7ac87d7bc
+5. Link Linkedin                : https://www.linkedin.com/in/akbar-maulana--/
+6. Fauzan's Linkedin            S: https://www.linkedin.com/in/ahmad-fauzan-ba47271b8/
 
