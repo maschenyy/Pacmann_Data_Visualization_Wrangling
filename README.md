@@ -40,10 +40,10 @@ The work flow in this project is:
 3. The file 'cleaned_suicide_rates_1990-2022.csv' is the cleaned dataset that will be used for visualization and analysis.    
 
 # F. Link 
-1. Link to dataset              : https://www.kaggle.com/datasets/ronaldonyango/global-suicide-rates-1990-to-2022/data
-2. Link to video explanation    : https://www.youtube.com/watch?v=XaPU-w6oP8c
-3. Link to Tableau              : https://public.tableau.com/app/profile/ahmad.fauzan7259/viz/Visualisasi_Project_Pacman/Dashboard1
-4. Link to Medium               : https://medium.com/@akbarmaulana_/analysis-on-suicide-rates-economic-factors-1990-2022-aff7ac87d7bc
-5. Link Linkedin                : https://www.linkedin.com/in/akbar-maulana--/
-6. Fauzan's Linkedin            S: https://www.linkedin.com/in/ahmad-fauzan-ba47271b8/
+1. Link to dataset: https://www.kaggle.com/datasets/ronaldonyango/global-suicide-rates-1990-to-2022/data
+2. Link to video explanation: https://www.youtube.com/watch?v=XaPU-w6oP8c
+3. Link to Tableau: https://public.tableau.com/app/profile/ahmad.fauzan7259/viz/Visualisasi_Project_Pacman/Dashboard1
+4. Link to Medium: https://medium.com/@akbarmaulana_/analysis-on-suicide-rates-economic-factors-1990-2022-aff7ac87d7bc
+5. Link to my Linkedin: https://www.linkedin.com/in/akbar-maulana--/
+6. Fauzan's Linkedin: https://www.linkedin.com/in/ahmad-fauzan-ba47271b8/
 
