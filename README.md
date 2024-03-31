@@ -41,9 +41,9 @@ Alur pengerjaan pada project kali ini yaitu:
 
 # F. Link 
 1. Link dataset     : https://www.kaggle.com/datasets/ronaldonyango/global-suicide-rates-1990-to-2022/data
-2. Link video       : tba
-3. Link Tableau     : tba
-4. Link Medium      : tba
+2. Link video       : https://www.youtube.com/watch?v=XaPU-w6oP8c
+3. Link Tableau     : https://public.tableau.com/app/profile/ahmad.fauzan7259/viz/Visualisasi_Project_Pacman/Dashboard1
+4. Link Medium      : https://medium.com/@akbarmaulana_/analysis-on-suicide-rates-economic-factors-1990-2022-aff7ac87d7bc
 5. Link Linkedin    : https://www.linkedin.com/in/akbar-maulana--/
-                    : https://www.linkedin.com/in/ahmad-fauzan-ba47271b8/
+6. Fauzan's Linkedin: https://www.linkedin.com/in/ahmad-fauzan-ba47271b8/
 
