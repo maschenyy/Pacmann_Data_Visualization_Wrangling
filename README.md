@@ -26,8 +26,8 @@ The work flow in this project is:
         * Checking unknown values of categorical data 
         * Deleting unnecessary columns
         * Checking missing values on each column
-        * Deleting missing values on certain column 
-        * Handling missing values on GDP, GDPPerCapita, GrossNationalIncome, and GNIPerCapita columns     
+        * Deleting missing values on SuicideCount, InflationRate, and EmploymentPopulationRatio column. Reason to delete rather than using imputation is to avoid bias as much as possible
+        * Handling missing values on GDP, GDPPerCapita, GrossNationalIncome, and GNIPerCapita columns using median due to the data distribution is skewed     
     - 3. Save and download cleaned dataset
     - 4. Visualization with tableau
     - 5. Data analytics to gain insight and give recommendation 
